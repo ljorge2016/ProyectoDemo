@@ -7,7 +7,7 @@ namespace BOPE.API.Entidades
 {
     public class Categoria
     {
-        public int Id { get; set; }
+        public int IdCat { get; set; }
         public string Nombre { get; set; }
 
     }
